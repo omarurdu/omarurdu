@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there to the outside world👋
+- 🔭 I’m currently working on an AI application for automated adjustment of a CVs and automated writing of cover letters based on automated analyzed job vacancies.
+- 🌱 I’m currently learning a lot about building intuitive and scalable AI applications with Prompt chaining.
+- 📫 How to reach me: LinkedIn
+- 💬 Ask me about anything 
 
 <!--
 **afg1930/afg1930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
