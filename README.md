@@ -1,6 +1,6 @@
 ## Hi there to the outside world👋
 - 🔭 I’m currently working on an AI application for automated adjustment of a CVs and automated writing of cover letters based on automated analyzed job vacancies.
-- 🌱 I’m currently learning a lot about building intuitive and scalable AI applications with Prompt chaining.
+- 🌱 I’m currently learning a lot about building intuitive and scalable AI applications.
 - 📫 How to reach me: LinkedIn
 - 💬 Ask me about anything 
 
